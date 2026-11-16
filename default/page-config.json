@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-soundtracks.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Música original para cine y animación | Lynx Pardelle",
+    "description": "Desarrolla música para el mundo de tu película o serie animada. El estilo y el ritmo se plantean a partir de lo que está ocurriendo en pantalla y de los matices emocionales de cada escena.",
+    "canonical": "https://servicio-soundtracks.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-mezcla.webp"
+    }
+  }
+}
