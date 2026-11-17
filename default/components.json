@@ -276,7 +276,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Cómo se plantea la música de una película o serie animada?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -294,7 +294,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Una dirección musical que acompañe la historia y dialogue con el ritmo del montaje.",
+        "text": "Partimos de las escenas, su ritmo y los matices que quieres subrayar. Eso orienta la instrumentación, el ambiente y los puntos de sincronía con la imagen.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -729,7 +729,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -984,6 +985,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver el trabajo musical de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/music",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }
