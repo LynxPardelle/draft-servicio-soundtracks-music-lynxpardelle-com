@@ -8,11 +8,55 @@
   "modalRootIds": [],
   "seo": {
     "title": "Música original para cine y animación | Lynx Pardelle",
-    "description": "Desarrolla música para el mundo de tu película o serie animada. El estilo y el ritmo se plantean a partir de lo que está ocurriendo en pantalla y de los matices emocionales de cada escena.",
+    "description": "Define una dirección musical para tu película o serie animada. Trabaja intención narrativa, ambiente, ritmo y sincronía con escenas.",
     "canonical": "https://servicio-soundtracks.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-soundtracks-r2-9346a58039a2cf11.webp",
+      "title": "Música original para cine y animación | Lynx Pardelle",
+      "description": "Define una dirección musical para tu película o serie animada. Trabaja intención narrativa, ambiente, ritmo y sincronía con escenas.",
+      "url": "https://servicio-soundtracks.music.lynxpardelle.com/",
+      "imageAlt": "Composición musical frente a un monitor con una escena de cine."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Música original para cine y animación | Lynx Pardelle",
+      "description": "Define una dirección musical para tu película o serie animada. Trabaja intención narrativa, ambiente, ritmo y sincronía con escenas.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-soundtracks-r2-9346a58039a2cf11.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-soundtracks.music.lynxpardelle.com/#webpage",
+        "name": "Música original para cine y animación",
+        "description": "Define una dirección musical para tu película o serie animada. Trabaja intención narrativa, ambiente, ritmo y sincronía con escenas.",
+        "url": "https://servicio-soundtracks.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-soundtracks.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-soundtracks.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Música original para cine y animación",
+        "description": "Define una dirección musical para tu película o serie animada. Trabaja intención narrativa, ambiente, ritmo y sincronía con escenas.",
+        "url": "https://servicio-soundtracks.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-soundtracks-r2-9346a58039a2cf11.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Música original para cine y animación"
+      }
+    ]
   }
 }
